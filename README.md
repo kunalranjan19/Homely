@@ -20,6 +20,8 @@
 ## Technologies Used
 1. React
 2. NodeJS
-3. express
+3. express js
 4. MongoDB
-
+5. Mongoose
+6. Redux
+7. Tailwind CSS
