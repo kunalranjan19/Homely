@@ -10,17 +10,20 @@
 1. Customized meal Plans
 2. Regional Cuisine
 3. Daily or Weekly Options
-4. Scheduled Laundry Pickup
-5. Professional Laundry Care: HomelyCare ensures that clothes are treated with care, offering services like stain removal, ironing, and folding.
-6. Eco-friendly Practices: The laundry service promotes eco-friendly practices, such as using eco-friendly detergents and energy-efficient machines.
-7. Subscription Plans
-8. Quality and safety
+4. quality and safety
+5. Subscription plan
+
+
+### Scheduled Laundry Pickup
+1. Professional Laundry Care: HomelyCare ensures that clothes are treated with care, offering services like stain removal, ironing, and folding.
+2. Eco-friendly Practices: The laundry service promotes eco-friendly practices, such as using eco-friendly detergents and energy-efficient machines.
+3. Subscription Plans
 
 
 ## Technologies Used
 1. React
 2. NodeJS
-3. express js
+3. expressJS
 4. MongoDB
 5. Mongoose
 6. Redux
