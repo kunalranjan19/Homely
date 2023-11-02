@@ -27,4 +27,6 @@
 3. expressJS
 4. MongoDB
 5. Mongoose
+6. Redux
+7. Tailwind CSS
 
