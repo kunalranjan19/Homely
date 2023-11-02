@@ -13,3 +13,5 @@
 4. Scheduled Laundry Pickup
 5. Professional Laundry Care: HomelyCare ensures that clothes are treated with care, offering services like stain removal, ironing, and folding.
 6. Eco-friendly Practices: The laundry service promotes eco-friendly practices, such as using eco-friendly detergents and energy-efficient machines.
+7. Subscription Plans
+8. Quality and safety
