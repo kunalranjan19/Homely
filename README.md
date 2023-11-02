@@ -24,7 +24,7 @@
 ## Technologies Used
 1. React
 2. NodeJS
-3. expressJS
+3. ExpressJS
 4. MongoDB
 5. Mongoose
 6. Redux
