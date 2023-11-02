@@ -18,7 +18,7 @@
 1. Professional Laundry Care: HomelyCare ensures that clothes are treated with care, offering services like stain removal, ironing, and folding.
 2. Eco-friendly Practices: The laundry service promotes eco-friendly practices, such as using eco-friendly detergents and energy-efficient machines.
 3. Subscription Plans
-4. Pick UP and drop Facilities
+4. Pick UP and drop off Facilities
 
 
 ## Technologies Used
@@ -27,5 +27,4 @@
 3. expressJS
 4. MongoDB
 5. Mongoose
-6. Redux
-7. Tailwind CSS
+
