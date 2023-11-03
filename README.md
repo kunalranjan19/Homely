@@ -20,13 +20,20 @@
 3. Subscription Plans
 4. Pick-up and drop-off Facilities
 
+## Table of Contents:
+## Getting Started
+  To get a copy of this code you need to fork this repository but first, you need to have all the prerequisites installed
+  <b> <h3> For the initial start, fork the project and use git clone command to download the repository to your computer </b> </h3>. 
 
-## Technologies Used
+
+
+## Prerequisites
 1. React
 2. NodeJS
 3. ExpressJS
 4. MongoDB
 5. Mongoose
 6. Redux
-7. Tailwind CSS
+
+## Installation
 
