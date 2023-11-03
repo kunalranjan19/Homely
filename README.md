@@ -24,6 +24,7 @@
 ## Getting Started
   To get a copy of this code you need to fork this repository but first, you need to have all the prerequisites installed
   <b> <h3> For the initial start, fork the project and use git clone command to download the repository to your computer </b> </h3>. 
+    $ git clone [link of the repo]
 
 
 
