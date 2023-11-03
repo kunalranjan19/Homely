@@ -37,7 +37,9 @@
 6. Redux
 
 ## Installation
-
+  write npm install express in terminal
+  then all add nodemon
+  command for nodemon is npm i -D nodemon
 
 ## usage
 
